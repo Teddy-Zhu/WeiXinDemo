@@ -126,6 +126,13 @@
 			<version>2.2</version>
 			<scope>provided</scope>
 		</dependency>
+
+		<!-- for dom4j parser xml -->
+		<dependency>
+			<groupId>dom4j</groupId>
+			<artifactId>dom4j</artifactId>
+			<version>1.6.1</version>
+		</dependency>
 	</dependencies>
 	<build>
 		<finalName>weixinexample</finalName>
